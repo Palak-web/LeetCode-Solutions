@@ -1,16 +1,15 @@
-# LeetCode Solutions
+# Arrays
 
-This repository contains my LeetCode solutions in Python.
+This folder contains my Python solutions to LeetCode array problems.
 
-## Topics
+## Topics to be Covered
 
-- Arrays
-- Strings
-- Linked List
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
+* Traversal
+* Two Pointers
+* Prefix Sum
+* Sliding Window
+* Binary Search on Arrays
+* Sorting
+* Hashing
 
-I use this repository to track my DSA practice and coding interview preparation.
+More solutions will be added as I continue practicing Data Structures and Algorithms.
